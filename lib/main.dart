@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
       ],
       child: MaterialApp(
           debugShowCheckedModeBanner: false,
-          title: 'Reedit Posts',
+          title: 'Reddit Posts',
           theme: ThemeData(
             primarySwatch: Colors.amber,
           ),
