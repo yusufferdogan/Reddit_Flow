@@ -60,7 +60,7 @@ class PostWidget extends StatelessWidget {
               padding: EdgeInsets.all(5),
               decoration: BoxDecoration(
                 border: Border.all(
-                  color: Colors.pink,
+                  color: Colors.teal,
                   width: 2,
                 ),
                 borderRadius: BorderRadius.circular(10),
